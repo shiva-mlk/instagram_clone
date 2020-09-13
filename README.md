@@ -1,6 +1,6 @@
-#Todo storing image in firebase
-#Todo styling image uploader
-#Todo Add comment box
+##Todo storing image in firebase
+##Todo styling image uploader
+##Todo Add comment box
 
 
 
