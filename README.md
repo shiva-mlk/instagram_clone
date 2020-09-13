@@ -1,3 +1,9 @@
+#Todo storing image in firebase
+#Todo styling image uploader
+#Todo Add comment box
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
